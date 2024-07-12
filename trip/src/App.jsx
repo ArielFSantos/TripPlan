@@ -5,7 +5,7 @@ function App() {
     <>
     <div>
       <img src="" alt="" />
-      <h1>plann.er</h1>
+      <h1>planner</h1>
       <p>Convide seus amigos e planeje sua próxima viagem!</p>
     </div>
     <div>
